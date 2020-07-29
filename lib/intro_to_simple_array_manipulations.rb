@@ -1,3 +1,2 @@
-def using_concat
+using_concat
   array.concat
-end
