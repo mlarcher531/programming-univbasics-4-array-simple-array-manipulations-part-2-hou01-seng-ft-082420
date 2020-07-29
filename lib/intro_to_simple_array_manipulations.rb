@@ -24,6 +24,6 @@ def using_delete(instructors, steven)
 end
 
 def using_delete_at(array,interger)
-  array.delete_at(3)
+  array.delete_at(2)
   p array
 end
