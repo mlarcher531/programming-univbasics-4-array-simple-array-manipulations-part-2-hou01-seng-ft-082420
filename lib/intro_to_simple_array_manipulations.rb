@@ -17,3 +17,8 @@ def using_flatten(instruments)
   instruments.flatten!
   p instruments
 end
+
+def using_delete(instructors, no_offense_steven)
+  instructors.delete("steven")
+  p instructors
+end
