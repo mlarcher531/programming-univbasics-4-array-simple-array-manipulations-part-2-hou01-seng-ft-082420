@@ -27,4 +27,3 @@ def using_delete_at(array,interger)
   array.delete_at(2)
   p array
 end
-
