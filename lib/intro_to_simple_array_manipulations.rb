@@ -12,3 +12,8 @@ def using_uniq(haircuts)
   haircuts.uniq!
   p haircuts
 end
+
+def using_flatten(instruments)
+  instruments.flatten!
+  p instruments
+end
