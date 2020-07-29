@@ -22,3 +22,9 @@ def using_delete(instructors, steven)
   instructors.delete("Steven")
   p instructors
 end
+
+def using_delete_at(array,interger)
+  array.delete_at(2)
+  p array
+end
+
