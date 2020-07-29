@@ -1,2 +1,3 @@
-using_concat
+def using_concat
   array.concat
+end
